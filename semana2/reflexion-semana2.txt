@@ -1,0 +1,10 @@
+Aprender a usar la terminal es súper importante porque nos permite controlar 
+la computadora de una forma más rápida y directa, sin depender de los iconos o el mouse. 
+Como desarrolladores, muchas veces nos vamos a encontrar con herramientas que solo funcionan
+con comandos, como Git o cuando subimos proyectos a la nube, y si no sabemos movernos por 
+las carpetas desde ahí, nos quedaríamos varados. Al principio parece difícil 
+porque no hay una guía visual, pero con la práctica uno se da cuenta de que ayuda a 
+tener todo mucho más organizado y profesional. Dominar estos comandos básicos me ayuda a
+entender mejor cómo funciona la estructura de mis proyectos y me prepara para trabajar en 
+equipos donde la rapidez y el orden son clave. En resumen, es una habilidad que todo programador
+debe tener para no limitarse y poder automatizar tareas en el futuro.
