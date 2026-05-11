@@ -1,0 +1,5 @@
+Mantener un registro de cambios con herramientas como Git es fundamental en el desarrollo de software porque nos da seguridad y control total sobre el proyecto.
+En programación es muy común que al agregar una función nueva algo deje de funcionar, y gracias a Git podemos regresar a una versión anterior que sí servía sin perder todo el trabajo. 
+Además, permite que varias personas trabajen en el mismo código al mismo tiempo sin borrarse los cambios entre sí, lo que facilita mucho la colaboración. La trazabilidad nos ayuda a entender la evolución del proyecto,
+permitiendo saber exactamente cuándo y por qué se tomó cada decisión técnica. Sin este registro, el desarrollo sería caótico, muy propenso a errores humanos y sería casi imposible corregir fallas en sistemas grandes. 
+En conclusión, Git no es solo una herramienta de guardado, sino la base para un trabajo profesional, organizado y eficiente en el mundo de la tecnología actual.
